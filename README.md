@@ -87,17 +87,17 @@ If you want a clean train/val split or standalone model inference path, adding a
 
 ```mermaid
 flowchart LR
-    A[Raw Underwater RGB] --> B[DCP Module\nutils/dcp.py]
-    B --> C[J_phys RGB + transmission t]
+    A[Raw Underwater RGB] --> B["DCP Module\nutils/dcp.py"]
+    B --> C["J_phys RGB + transmission t"]
     A --> D[Stack Features]
     C --> D
-    D --> E[7-channel Tensor\nraw(3) + J_phys(3) + t(1)]
-    E --> F[PhysicsGuidedUNet\nmodels/model.py]
+    D --> E["7-channel Tensor\n3 + 3 + 1 channels"]
+    E --> F["PhysicsGuidedUNet\nmodels/model.py"]
     F --> G[Residual Output]
     C --> H[Residual Add with J_phys]
     G --> H
     H --> I[Enhanced RGB Output]
-    I --> J[Losses: L1 + SSIM + Color + Edge]
+    I --> J["Losses: L1 + SSIM + Color + Edge"]
 ```
 
 ## Current Limitations

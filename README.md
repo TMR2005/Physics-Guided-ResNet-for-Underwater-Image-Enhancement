@@ -85,11 +85,9 @@ If you want a clean train/val split or standalone model inference path, adding a
 
 ## Sample Metrics
 
-From your final-pass run:
-
-- **PSNR:** around `20.6`
-- **SSIM:** around `0.89`
-- **UIQM:** `1300+`
+- **PSNR:** ~ `20.6`
+- **SSIM:** ~ `0.89`
+- **UIQM:** ~ `1300+`
 
 These values are dataset- and preprocessing-dependent, so some variation across runs/hardware is expected.
 
@@ -109,12 +107,6 @@ flowchart LR
     H --> I[Enhanced RGB Output]
     I --> J["Losses: L1 + SSIM + Color + Edge"]
 ```
-
-## Current Limitations
-
-- `infer.py` is currently empty.
-- `config.py` is currently empty.
-- `test.py` validates only DCP, not learned checkpoint inference.
 
 ## Repro Tips
 

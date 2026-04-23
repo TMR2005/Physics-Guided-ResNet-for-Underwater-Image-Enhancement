@@ -91,7 +91,7 @@ flowchart LR
     B --> C[J_phys RGB + transmission t]
     A --> D[Stack Features]
     C --> D
-    D --> E[7-channel Tensor<br/>[raw(3), J_phys(3), t(1)]]
+    D --> E[7-channel Tensor<br/>raw(3) + J_phys(3) + t(1)]
     E --> F[PhysicsGuidedUNet<br/>models/model.py]
     F --> G[Residual Output]
     C --> H[Residual Add with J_phys]

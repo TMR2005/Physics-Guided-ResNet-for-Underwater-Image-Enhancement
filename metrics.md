@@ -1,0 +1,156 @@
+Using device: mps
+
+Epoch 1 | Train Loss: 0.2002
+PSNR: 18.63
+SSIM: 0.7872
+UIQM: 1252.49
+
+Epoch 2 | Train Loss: 0.1784
+PSNR: 19.13
+SSIM: 0.8091
+UIQM: 1309.84
+
+Epoch 3 | Train Loss: 0.1691
+PSNR: 19.30
+SSIM: 0.8250
+UIQM: 1337.39
+
+Epoch 4 | Train Loss: 0.1633
+PSNR: 19.42
+SSIM: 0.8385
+UIQM: 1317.03
+
+Epoch 5 | Train Loss: 0.1565
+PSNR: 19.56
+SSIM: 0.8443
+UIQM: 1264.56
+
+Epoch 6 | Train Loss: 0.1532
+PSNR: 19.66
+SSIM: 0.8502
+UIQM: 1237.31
+
+Epoch 7 | Train Loss: 0.1502
+PSNR: 19.92
+SSIM: 0.8568
+UIQM: 1189.14
+
+Epoch 8 | Train Loss: 0.1477
+PSNR: 19.62
+SSIM: 0.8572
+UIQM: 1201.25
+
+Epoch 9 | Train Loss: 0.1458
+PSNR: 20.01
+SSIM: 0.8612
+UIQM: 1147.28
+
+Epoch 10 | Train Loss: 0.1443
+PSNR: 19.77
+SSIM: 0.8619
+UIQM: 1102.29
+
+Epoch 11 | Train Loss: 0.1425
+PSNR: 19.97
+SSIM: 0.8668
+UIQM: 1138.25
+
+Epoch 12 | Train Loss: 0.1422
+PSNR: 20.00
+SSIM: 0.8672
+UIQM: 1156.69
+
+Epoch 13 | Train Loss: 0.1395
+PSNR: 20.22
+SSIM: 0.8688
+UIQM: 1113.83
+
+Epoch 14 | Train Loss: 0.1392
+PSNR: 20.23
+SSIM: 0.8710
+UIQM: 1075.24
+
+Epoch 15 | Train Loss: 0.1375
+PSNR: 20.26
+SSIM: 0.8740
+UIQM: 1080.73
+
+Epoch 16 | Train Loss: 0.1366
+PSNR: 20.30
+SSIM: 0.8745
+UIQM: 1079.19
+
+Epoch 17 | Train Loss: 0.1358
+PSNR: 20.51
+SSIM: 0.8776
+UIQM: 1128.10
+
+Epoch 18 | Train Loss: 0.1353
+PSNR: 20.22
+SSIM: 0.8741
+UIQM: 1109.39
+
+Epoch 19 | Train Loss: 0.1340
+PSNR: 20.40
+SSIM: 0.8771
+UIQM: 1084.44
+
+Epoch 20 | Train Loss: 0.1340
+PSNR: 20.20
+SSIM: 0.8770
+UIQM: 1173.31
+
+Epoch 21 | Train Loss: 0.1330
+PSNR: 20.57
+SSIM: 0.8786
+UIQM: 1039.38
+
+Epoch 22 | Train Loss: 0.1327
+PSNR: 20.53
+SSIM: 0.8796
+UIQM: 1077.84
+
+Epoch 23 | Train Loss: 0.1318
+PSNR: 19.93
+SSIM: 0.8724
+UIQM: 1186.46
+
+Epoch 24 | Train Loss: 0.1313
+PSNR: 20.39
+SSIM: 0.8803
+UIQM: 1177.76
+
+Epoch 25 | Train Loss: 0.1320
+PSNR: 20.69
+SSIM: 0.8822
+UIQM: 1040.32
+
+Epoch 26 | Train Loss: 0.1303
+PSNR: 20.51
+SSIM: 0.8820
+UIQM: 1160.75
+
+Epoch 27 | Train Loss: 0.1295
+PSNR: 20.53
+SSIM: 0.8832
+UIQM: 1043.95
+
+Epoch 28 | Train Loss: 0.1294
+PSNR: 20.57
+SSIM: 0.8847
+UIQM: 1054.40
+
+Epoch 29 | Train Loss: 0.1291
+PSNR: 20.72
+SSIM: 0.8849
+UIQM: 1099.59
+
+Epoch 30 | Train Loss: 0.1286
+PSNR: 20.67
+SSIM: 0.8839
+UIQM: 1196.91
+
+Model saved!
+
+
+V3:

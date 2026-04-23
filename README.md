@@ -83,6 +83,16 @@ There is no separate evaluation script yet; evaluation currently runs inside `tr
 
 If you want a clean train/val split or standalone model inference path, adding a dedicated `eval.py`/`infer.py` script is the next step.
 
+## Sample Metrics
+
+From your final-pass run:
+
+- **PSNR:** around `20.6`
+- **SSIM:** around `0.89`
+- **UIQM:** `1300+`
+
+These values are dataset- and preprocessing-dependent, so some variation across runs/hardware is expected.
+
 ## Simple Architecture Diagram
 
 ```mermaid
